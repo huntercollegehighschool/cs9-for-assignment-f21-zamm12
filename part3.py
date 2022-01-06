@@ -18,4 +18,9 @@ Enter the height: 3
 
 """
 
-#write your code here 
+n = int(input("enter a base"))
+n2 = int(input("enter a height"))
+
+print('*'* n)
+print(('*'* n)* n2)
+
