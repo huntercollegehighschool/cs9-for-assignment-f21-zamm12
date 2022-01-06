@@ -23,4 +23,4 @@ n2 = int(input("enter a height"))
 
 print('*'* n)
 print(('*'* n)* n2)
-
+ 
